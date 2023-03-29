@@ -4,7 +4,7 @@
 ![My Skills](https://skills.thijs.gg/icons?i=ts,react,tailwind,nodejs,rust,postgres&theme=dark)
 
 ## about me
-- 🌟 Studied CS and previously worked as professional graphic designer 
+- 🌟 Studied CE and previously worked as professional graphic designer 
 - 🔭 I’m currently working on creating Tauri apps using React and Rust and frontendworks for clients
 - 🌱 I’m currently learning Go and Rust
 - 👯 I’m looking to collaborate on any freelance projects based my skills icon above
