@@ -1,7 +1,7 @@
 ### Hello my name is Mouktar 🔮Creative Frontend/backend developer
 
 ## Developing projects with : 
-![My Skills](https://skills.thijs.gg/icons?i=ts,react,tailwind,nodejs,rust,postgres&theme=dark)
+![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,react,tailwind,nodejs,rust,postgres&theme=dark)
 
 ## about me
 - 🌟 Studied CE and previously worked as professional graphic designer 
