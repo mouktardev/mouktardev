@@ -6,7 +6,7 @@
 ## about me
 - 🌟 Studied CE and previously worked as professional graphic designer 
 - 🌱 I’m currently learning Go and Rust
-- 👯 I’m looking to collaborate on any freelance projects based on my skills icon above
+- 👯 currently building an image desktop app for more info check [my twitter][https://twitter.com/mouktardev] 
 - 💬 Ask me about Javascript React Astro Strapi postgres Database serverless tech 
 
 
