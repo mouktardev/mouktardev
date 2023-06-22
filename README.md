@@ -3,7 +3,7 @@
 ## Developing projects with : 
 ![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,react,tailwind,nodejs,rust,postgres&theme=dark)
 
-## about me
+## About me
 - Studied CE and previously worked as professional graphic designer 
 - I’m currently learning Go and Rust
 - Currently building an image optimization app for more info check [my twitter](https://twitter.com/mouktardev)
