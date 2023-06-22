@@ -4,10 +4,10 @@
 ![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,react,tailwind,nodejs,rust,postgres&theme=dark)
 
 ## about me
-- 🌟 Studied CE and previously worked as professional graphic designer 
-- 🌱 I’m currently learning Go and Rust
-- 👯 Currently building an image desktop app for more info check [my twitter](https://twitter.com/mouktardev)
-- 💬 Ask me about Javascript React Astro Strapi postgres Database serverless tech 
+- Studied CE and previously worked as professional graphic designer 
+- I’m currently learning Go and Rust
+- Currently building an image optimization app for more info check [my twitter](https://twitter.com/mouktardev)
+- Ask me about Javascript React Astro Strapi postgres Database serverless tech 
 
 
 ## 👀 Want to know more about my work?
