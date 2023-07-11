@@ -1,4 +1,4 @@
-### Hello my name is Mouktar 🔮Creative Frontend/backend developer
+### Hello my name is Mouktar 🔮 a web and apps developer
 
 ## Developing projects with : 
 ![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,react,tailwind,nodejs,rust,postgres&theme=dark)
