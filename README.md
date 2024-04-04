@@ -5,7 +5,7 @@
 
 ## About me
 - Studied CE and previously worked as professional graphic designer 
-- Currently building pwa editor and desktop apps with tauri for updates check [my twitter](https://twitter.com/mouktardev)
+- Currently building a pwa editor wit ai features and a desktop apps with tauri for image optimization updates check [my twitter](https://twitter.com/mouktardev)
 
 
 ## 👀 Want to work with me?
