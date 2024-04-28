@@ -1,7 +1,7 @@
 ### Hello my name is Mouktar 🔮 a web and apps developer
 
 ## Developing projects with : 
-![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,astro,react,tauri,vite,tailwind,nodejs,sqlite,postgres,&theme=dark)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,astro,react,tauri,vite,tailwind,nodejs,sqlite,postgres)](https://twitter.com/mouktardev)
 
 ## About me
 - Studied CE and previously worked as professional graphic designer 
