@@ -9,4 +9,4 @@
 
 
 ## 👀 Want to work with me?
-Feel free to dm here [Twitter](https://twitter.com/mouktardev) or send an email to `devmouktar@gmail.com`
+Feel free to dm here [@mouktardev](https://twitter.com/mouktardev) or send an email to `devmouktar@gmail.com`
