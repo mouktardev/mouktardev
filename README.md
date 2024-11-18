@@ -5,7 +5,7 @@
 
 ## About me
 - Studied CE and previously worked as professional graphic designer 
-- Currently building a pwa blog editor with ai features and a desktop app for image optimization using rust and tauri. For updates check my socials [@mouktardev](https://twitter.com/mouktardev)
+- Currently building a cms blog editor with ai features and a desktop app for image optimization using rust and tauri. For updates check my socials [@mouktardev](https://twitter.com/mouktardev)
 
 
 ## 👀 Want to work with me?
